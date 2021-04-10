@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- asd
-- 🎥 
+- 🐦 I post random memes and thoughts on [twitter.com/SuboptimalEng](twitter.com/SuboptimalEng)
+- 📖 I write about being a tech YouTuber on [suboptimaleng.github.io](suboptimaleng.github.io)
 
 <!--
 **SuboptimalEng/SuboptimalEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
