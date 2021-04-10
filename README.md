@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 #### About:
 - 🇮🇳 My name is Suboptimal, and I'm just a typical Indian guy who used to work as a software engineer.
