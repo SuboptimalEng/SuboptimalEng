@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-- I post dank memes on [twitter.com/SuboptimalEng](twitter.com/SuboptimalEng)
-- I make videos about web dev && developer productivity on [youtube.com/SuboptimalEng](youtube.com/SuboptimalEng)
-- I write about being a tech YouTuber on [suboptimaleng.github.io](suboptimaleng.github.io)
+I post:
+- 🐦 Dank memes on [twitter](twitter.com/SuboptimalEng)
+- 💻 Videos about web dev && productivity on [youtube](youtube.com/SuboptimalEng)
+- 📖 Thoughts about being a tech YouTuber on [suboptimaleng.github.io](suboptimaleng.github.io)
+
+Tech Stack:
+- Vue.js
+- Tailwind CSS
+- GraphQL
+- NodeJS
+- MongoDB
+- Undecided: Rust, Postgres
 
 <!--
 **SuboptimalEng/SuboptimalEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
