@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🐦 I post random memes and thoughts on [twitter.com/SuboptimalEng](twitter.com/SuboptimalEng)
+- 🐦 I post dank memes on [twitter.com/SuboptimalEng](twitter.com/SuboptimalEng)
+- 💻 I make videos about web dev && developer productivity on [youtube.com/SuboptimalEng](youtube.com/SuboptimalEng)
 - 📖 I write about being a tech YouTuber on [suboptimaleng.github.io](suboptimaleng.github.io)
 
 <!--
