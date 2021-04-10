@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### I'm just a typical Indian guy making videos about web development and productivity.
+#### Hi there, I'm just a typical Indian guy making videos about web development and productivity 👋
 
 I post:
 - 🐦 updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng)
