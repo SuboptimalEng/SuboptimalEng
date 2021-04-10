@@ -2,7 +2,7 @@
 
 I post:
 - 🐦 updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng)
-- 💻 videos about web dev && productivity on [youtube](https://youtube.com/SuboptimalEng)
+- 💻 videos about web dev & productivity on [youtube](https://youtube.com/SuboptimalEng)
 - 📖 my thoughts about being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
 
 Tech Stack:
