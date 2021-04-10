@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### About:
-- 🚇 My name is Suboptimal, and I'm just a typical Indian guy worked as a software engineer
-- I quit my 6-figure tech job in 2020 to make educational videos about web development on YouTube
-- I keep track of my thoughts and learnings on twitter & my personal blog 
+- 🚇 My name is Suboptimal, and I'm just a typical Indian guy who used to work as a software engineer
+- 🌌 In late 2020, I quit my 6-figure tech job to pursue my dreams of becoming a YouTuber
+- 🤔 I use GitHub, Twitter & my blog to keep track of my thoughts and post some learnings alo
 - 📞 Feel free to reach out to me on twitter
 
 #### I post:
