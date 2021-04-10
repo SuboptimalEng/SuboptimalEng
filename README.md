@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-- 🇮🇳 My name is Suboptimal, and I'm just a typical Indian guy who used to work as a software engineer.
+- 🤷🏾‍♂️🇳My name is Suboptimal, and I'm just a typical Indian guy who used to work as a software engineer.
 - 💫 In late 2020, I quit my 6-figure tech job to pursue my dreams of becoming a YouTuber.
 - 🧠 I keep track of my thoughts and learnings on Twitter & my blog.
 
