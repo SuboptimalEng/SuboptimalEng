@@ -6,8 +6,8 @@
 - 🧠 I keep track of my thoughts and learnings on my GitHub, Twitter & blog.
 
 #### I post:
-- 🐦 short-form updates (and dank memes) on [twitter.com/SuboptimalEng](https://twitter.com/SuboptimalEng)
-- 💻 videos about web development & productivity on [youtube.com/SuboptimalEng](https://youtube.com/SuboptimalEng)
+- 🐦 short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng)
+- 💻 videos about web development & productivity on [youtube](https://youtube.com/SuboptimalEng)
 - 📖 thoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
 
 <!--
