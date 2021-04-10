@@ -8,7 +8,7 @@
 #### I post:
 - 🐦 short-form updates (and dank memes) on [twitter.com/SuboptimalEng](https://twitter.com/SuboptimalEng)
 - 💻 videos about web development & productivity on [youtube.com/SuboptimalEng](https://youtube.com/SuboptimalEng)
-- 📖 long-form thoughts about being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
+- 📖 my thoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
 
 <!--
 **SuboptimalEng/SuboptimalEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
