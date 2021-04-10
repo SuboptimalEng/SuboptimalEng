@@ -1,6 +1,8 @@
-### Hi there, I'm just a typical Indian guy making videos about web development and productivity 👋
+### Hi there 👋
 
-#### Short blurb
+#### Description:
+My name is Suboptimal, and I'm just a typical Indian guy who makes videos about web development and productivity.
+The best way to reach me is through twitter @SuboptimalEng.
 
 #### I post:
 - 🐦 updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng)
