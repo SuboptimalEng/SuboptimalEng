@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-#### Description:
-My name is Suboptimal, and I'm just a typical Indian guy who makes videos about web development and productivity.
-The best way to reach me is through twitter @SuboptimalEng.
+#### About:
+- My name is Suboptimal, and I'm just a typical Indian guy who makes videos about web development and productivity.
+- I quit my 6-figure tech job in 2020 to make educational content on YouTube and keep track of my journey online.
+- The best way to reach me is through twitter.
 
 #### I post:
 - 🐦 updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng)
 - 💻 videos about web dev & productivity on [youtube](https://youtube.com/SuboptimalEng)
 - 📖 my thoughts about being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
-
-#### Current tech stack:
-- Vue.js
-- Tailwind CSS
-- GraphQL
-- NodeJS
-- MongoDB
-- Rust (maybe)
 
 <!--
 **SuboptimalEng/SuboptimalEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
