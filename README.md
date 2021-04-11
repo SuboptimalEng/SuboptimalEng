@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 - 🤷🏾‍♂️ My name is Suboptimal, and I'm just a typical Indian guy who used to work as a software engineer.
-- 💫 In late 2020, I quit my 6-figure tech job in Silicon Valley to pursue YouTube full-time.
+- 💫 In late 2020, I quit my 6-figure tech job to pursue YouTube full-time.
 - 🧠 I keep track of my thoughts and learnings on Twitter & my blog.
 
 ### I post:
