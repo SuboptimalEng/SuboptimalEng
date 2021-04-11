@@ -8,7 +8,7 @@
 - 💻 videos about web development & productivity on [youtube](https://youtube.com/SuboptimalEng)
 - 📖 thoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
 
-* not my real name, though I really wish it was
+`* not my real name, though I really wish it was`
 
 <!--
 **SuboptimalEng/SuboptimalEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
