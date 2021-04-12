@@ -4,9 +4,9 @@
 - 🧠 I keep track of my thoughts and learnings on Twitter & my blog.
 
 ### I post 📝
-- 🐦 short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng)
-- 💻 videos about web development and productivity on [youtube](https://youtube.com/SuboptimalEng)
-- 📖 thoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
+- 🐦 Short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng).
+- 💻 Videos about web development and productivity on [youtube](https://youtube.com/SuboptimalEng).
+- 📖 Rhoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io).
 
 
-¹ not my real name, though I really wish it was
+¹ Not my real name, though I really wish it was.
