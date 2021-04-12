@@ -6,7 +6,7 @@
 ### I post 📝
 - 🐦 Short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng).
 - 💻 Videos about web development and productivity on [youtube](https://youtube.com/SuboptimalEng).
-- 📖 Rhoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io).
+- 📖 Thoughts, learnings and struggles of being a tech YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io).
 
 
 ¹ Not my real name, though I really wish it was.
