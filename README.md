@@ -9,4 +9,4 @@
 - 📖 thoughts, learnings and struggles of being a YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io)
 
 
-¹ Not my real name, though I really wish it was.
+¹ Not my real name.
