@@ -12,6 +12,7 @@
 
 ### Road to 100k Subscribers
 |      | Views | Total Subs | Earnings |
+| ---- | ----- | ---------- | -------- |
 | Jan. |       |            |          |
 | Feb. |       |            |          |
 | Mar. |       |            |          |
