@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-- 🤷🏾‍♂️ My name is Suboptimal[0], and I'm just a typical Indian software engineer.
+- 🤷🏾‍♂️ My name is Suboptimal¹, and I'm just a typical Indian software engineer.
 - 💫 In 2020, I quit my 6-figure tech job to pursue YouTube full-time.
 - 🤔 In my free time, I focus on building tech products to help creators.
 - 🧠 I keep track of my thoughts and learnings on Twitter.
@@ -22,5 +22,6 @@
 | May  | 14k   | 5760       | $40      |
 | Jun. | -     | -          | -        |
 
+### Footnotes
 
-[0] Not my real name.
+¹ Not my real name.
