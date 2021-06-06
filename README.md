@@ -12,10 +12,10 @@
 
 ### Road to 100k Subscribers
 
-|      | Views | Total Subs | Earnings |
-| ---- | ----- | ---------- | -------- |
-| Jan. | 17k   | 5200       | $60      |
-| Feb. | 12k   | 5390       | $40      |
+|      | Views | Earnings | Total Subs |
+| ---- | ----- | -------- | ---------- |
+| Jan. | 17k   | $60      | 5200      |
+| Feb. | 12k   | $40      | $40      |
 | Mar. | 9k    | 5500       | $30      |
 | Apr. | 10k   | 5650       | $30      |
 | May  | 14k   | 5760       | $40      |
