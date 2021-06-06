@@ -1,11 +1,11 @@
 ### Hi there 👋🏾
 - 🤷🏾‍♂️ My name is Suboptimal¹, and I'm just a typical Indian software engineer.
 - 💫 I quit my 6-figure tech job in 2020 to pursue YouTube full-time.
-- 🤔 In my free time, I build tech products to help creators.
+- 🤔 I use the money I make from YouTube to fund my own startup(s) focused on helping creators.
 - 🧠 I keep track of my thoughts and learnings on Twitter.
 
 ### I post 📝
-- 🐦 thoughts, learnings and struggles of being a YouTuber on [twitter](https://twitter.com/SuboptimalEng)
+- 🐦 thoughts, learnings and struggles of being a YouTuber and solo-founder on [twitter](https://twitter.com/SuboptimalEng)
 - 💻 videos about web development & developer productivity on [youtube](https://youtube.com/SuboptimalEng)
 
 <!-- - 🐦 short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng) -->
