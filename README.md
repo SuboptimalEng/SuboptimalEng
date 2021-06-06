@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 - 🤷🏾‍♂️ My name is Suboptimal¹, and I'm just a typical Indian software engineer.
-- 💫 I quit my 6-figure tech job in 2020 to pursue YouTube full-time.
-- 🤔 I use the money I make from YouTube to fund my own startup(s) focused on helping creators.
+- 💫 In 2020, I quit my 6-figure tech job to pursue YouTube full-time.
+- 🤔 In my free time, I focus on building tech products to help creators.
 - 🧠 I keep track of my thoughts and learnings on Twitter.
 
 ### I post 📝
