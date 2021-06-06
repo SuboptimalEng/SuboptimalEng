@@ -10,4 +10,15 @@
 <!-- - 🐦 short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng) -->
 <!-- - 📖 thoughts, learnings and struggles of being a YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io) (deprecated) -->
 
+### Road to 100k Subscribers
+|      | Views | Total Subs | Earnings |
+| Jan. |       |            |          |
+| Feb. |       |            |          |
+| Mar. |       |            |          |
+| May  |       |            |          |
+| Jun. | -     | -          | -        |
+
+
+
+
 ¹ Not my real name.
