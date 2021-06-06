@@ -5,7 +5,7 @@
 - 🧠 I keep track of my thoughts and learnings on Twitter
 
 ### I post 📝
-- 🐦 Thoughts, learnings and struggles of being a YouTuber and solo-founder on [twitter](https://twitter.com/SuboptimalEng)
+- 🐦 Thoughts, learnings, and struggles of being a YouTuber and solo-founder on [twitter](https://twitter.com/SuboptimalEng)
 - 💻 Videos about web development & developer productivity on [youtube](https://youtube.com/SuboptimalEng)
 
 <!-- - 🐦 short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng) -->
