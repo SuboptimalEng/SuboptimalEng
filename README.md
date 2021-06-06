@@ -12,13 +12,13 @@
 
 ### Road to 100k Subscribers
 
-|      | Views | Total Subs | Earnings | Insights |
-| ---- | ----- | ---------- | -------- | -------- |
-| Jan. | 17k   | 5200       | $60      | Didn't post in over 60 days, fully passive income! |
-| Feb. | 12k   | 5390       | $40      | |
-| Mar. | 9k    | 5500       | $30      | |
-| Apr. | 10k   | 5650       | $30      | |
-| May  | 14k   | 5760       | $40      | |
-| Jun. | -     | -          | -        | |
+|      | Views | Total Subs | Earnings |
+| ---- | ----- | ---------- | -------- |
+| Jan. | 17k   | 5200       | $60      |
+| Feb. | 12k   | 5390       | $40      |
+| Mar. | 9k    | 5500       | $30      |
+| Apr. | 10k   | 5650       | $30      |
+| May  | 14k   | 5760       | $40      |
+| Jun. | -     | -          | -        |
 
 ¹ Not my real name.
