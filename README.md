@@ -21,6 +21,5 @@
 | May  | 14k   | 5760(+110) | $40      |
 | Jun. | -     | -          | -        | -->
 
-### Footnotes
-
-¹ Not my real name.
+<!-- ### Footnotes
+¹ Not my real name. -->
