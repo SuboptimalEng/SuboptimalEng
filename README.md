@@ -10,7 +10,7 @@
 <!-- - 🐦 short-form updates (and dank memes) on [twitter](https://twitter.com/SuboptimalEng) -->
 <!-- - 📖 thoughts, learnings and struggles of being a YouTuber on [suboptimaleng.github.io](https://suboptimaleng.github.io) (deprecated) -->
 
-### Road to 100k Subscribers
+<!-- ### Road to 100k Subscribers
 
 |      | Views | Total Subs | Earnings |
 | ---- | :---- | :--------- | :------- |
@@ -19,7 +19,7 @@
 | Mar. | 9k    | 5500(+110) | $30      |
 | Apr. | 10k   | 5650(+150) | $30      |
 | May  | 14k   | 5760(+110) | $40      |
-| Jun. | -     | -          | -        |
+| Jun. | -     | -          | -        | -->
 
 ### Footnotes
 
