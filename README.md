@@ -10,9 +10,7 @@
 
 - I made this project to learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
-![image](_screenshots/slime-sim-webgpu.png)
-
-  <!-- <img src="_screenshots/slime-sim-webgpu.png" width="50%"> -->
+  <img src="_screenshots/slime-sim-webgpu.png" width="50%">
 
 ### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
 
