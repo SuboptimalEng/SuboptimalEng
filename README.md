@@ -1,24 +1,23 @@
-### 👋 Hi, I'm Suboptimal!
+## About Me
 
-### About Me
-
+- Hi, I'm Suboptimal!
 - I'm an Indian-American software engineer
 - I'm passionate about computer graphics
 - I share my learnings on [YouTube](https://www.youtube.com/@SuboptimalEng), [Twitter](https://twitter.com/SuboptimalEng), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/SuboptimalEng)
 
-### Projects
+## Projects
 
-#### Slime Simulation
+### Slime Simulation
 
 - I made this project to learn more about WebGPU API
 - <ins>Tech</ins>: TypeScript, WebGPU, WGSL, Compute Shaders
 
-#### MRI Viewer
+### MRI Viewer
 
 - I made this project to learn more about volume rendering
 - <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching
 
-#### Shader Tutorials
+### Shader Tutorials
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/perlin noise, SDFs, ray marching, fractional brownian motion, etc.
