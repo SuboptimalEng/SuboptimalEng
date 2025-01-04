@@ -18,12 +18,16 @@
 
 - I made this project to learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
+  <br/>
+  <br/>
   <img src="_screenshots/volume-renering.png">
 
 ### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials)
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
+  <br/>
+  <br/>
   <img src="_screenshots/ray-marching.png">
 
 ### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
@@ -31,12 +35,16 @@
 - I made this project to learn more about compute shaders in Unity
 - It has more editor tools than the WebGPU version (e.g. gradient colorization)
 - Tech Stack: Unity, C#, Shader Graph, Compute Shaders, Editor Scripting
+  <br/>
+  <br/>
   <img src="_screenshots/slime-sim-unity.png">
 
 ### [Boids (Unity)](https://github.com/SuboptimalEng/boids)
 
 - I made this project to learn more about Unity game development
 - Tech Stack: Unity, C#, Shader Graph, Compute Shaders
+  <br/>
+  <br/>
   <img src="_screenshots/boids.png">
 
 <!-- <br />
@@ -49,6 +57,6 @@
 <!-- <br />
 <br /> -->
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuboptimalEng&layout=compact&hide_title=true&hide_border=true" />
-</a> -->
+</a>
