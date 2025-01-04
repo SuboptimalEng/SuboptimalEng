@@ -6,7 +6,7 @@
 
 ## 🤓 Projects
 
-### Slime Simulation (WebGPU)
+### Slime Simulation
 
 - I made this project to learn more about compute shaders in WebGPU
 - <ins>Tech</ins>: TypeScript, WebGPU, WGSL, Compute Shaders
@@ -16,6 +16,11 @@
 - I made this project to learn more about the Volume Rendering technique
 - <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 
+### Shader Tutorials
+
+- I started a tutorial series where I learn + teach various shader techniques
+- E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
+
 ### Slime Simulation (Unity)
 
 - I made this project to learn more about compute shaders in Unity
@@ -23,22 +28,10 @@
   - Largely because Unity has built-in support for this type of tooling
 - <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
 
-### Boids
+### Boids (Unity)
 
 - I made this project to learn more about Unity game development
 - <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
-
-## 🫡 Tutorial Series
-
-### Shader Tutorials
-
-- I started a tutorial series where I learn + teach various shader techniques
-- E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
-
-### Three.js Tutorials
-
-- I started a tutorial series going over some core Three.js concepts
-- Reached an audience of 250k+ students
 
 <!-- <br />
 <br /> -->
