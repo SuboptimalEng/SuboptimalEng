@@ -6,15 +6,21 @@
 
 ## 🤓 Projects
 
-### Slime Simulation
+### Slime Simulation (WebGPU)
 
-- I made this project to learn more about WebGPU and compute shaders
+- I made this project to learn more about compute shaders in WebGPU
 - <ins>Tech</ins>: TypeScript, WebGPU, WGSL, Compute Shaders
 
 ### MRI Viewer
 
 - I made this project to learn more about the Volume Rendering technique
 - <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
+
+### Slime Simulation (Unity)
+
+- I made this project to learn more about compute shaders in Unity
+- It has more tooling than the WebGPU version, but it's not easily sharable
+- <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
 
 ### Boids
 
