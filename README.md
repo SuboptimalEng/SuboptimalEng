@@ -10,46 +10,49 @@
 
 - I made this project to learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
+- 45-Second Demo: [r/GraphicsProgramming](), [Twitter](https://x.com/SuboptimalEng/status/1873425520106582229), [Threads]()
+- 45-Second Demo with Music: [Instagram](), [YouTube Shorts]()
+- 5-Minute Devlog: [YouTube]()
+  <!-- <br/>
   <br/>
-  <br/>
-  <img src="_screenshots/slime-sim-webgpu.png">
+  <img src="_screenshots/slime-sim-webgpu.png"> -->
 
 ### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
 
 - I made this project to learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
+- 30-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1c9ke0p/volume_rendering_in_threejs_and_glsl/), [Twitter](https://x.com/SuboptimalEng/status/1781808470985003035)
+  <!-- <br/>
   <br/>
-  <br/>
-  <img src="_screenshots/volume-renering.png">
+  <img src="_screenshots/volume-renering.png"> -->
 
 ### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials)
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
+- Playlist with 10+ Videos: [YouTube](https://www.youtube.com/watch?v=7UvpTTEE1Hs&list=PLTJ_bWjv6i7xnDaPMrbx69zVu82sVails&pp=gAQB)
+  <!-- <br/>
   <br/>
-  <br/>
-  <img src="_screenshots/ray-marching.png">
-
-<!--
-Note: I could include this, but the WebGPU version makes this feel redundant.
+  <img src="_screenshots/ray-marching.png"> -->
 
 ### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
 - I made this project to learn more about compute shaders in Unity
 - It has more editor tools than the WebGPU version (e.g. gradient colorization)
 - Tech Stack: Unity, C#, Shader Graph, Compute Shaders, Editor Scripting
+- 8-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs)
+  <!-- <br/>
   <br/>
-  <br/>
-  <img src="_screenshots/slime-sim-unity.png">
--->
+  <img src="_screenshots/slime-sim-unity.png"> -->
 
 ### [Boids (Unity)](https://github.com/SuboptimalEng/boids)
 
 - I made this project to learn more about Unity game development
 - Tech Stack: Unity, C#, Shader Graph, Compute Shaders
+- 9-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo)
+  <!-- <br/>
   <br/>
-  <br/>
-  <img src="_screenshots/boids.png">
+  <img src="_screenshots/boids.png"> -->
 
 <!--
 Note: Leaving this here incase I want to use it again.
