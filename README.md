@@ -30,6 +30,9 @@
   <br/>
   <img src="_screenshots/ray-marching.png">
 
+<!--
+Note: I could include this, but the WebGPU version makes this feel redundant.
+
 ### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
 - I made this project to learn more about compute shaders in Unity
@@ -38,6 +41,7 @@
   <br/>
   <br/>
   <img src="_screenshots/slime-sim-unity.png">
+-->
 
 ### [Boids (Unity)](https://github.com/SuboptimalEng/boids)
 
