@@ -13,13 +13,13 @@
 
 ### MRI Viewer
 
-- I made this project to learn more about volume rendering
+- I made this project to learn more about the Volume Rendering technique
 - <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 
 ### Shader Tutorials
 
 - I started a tutorial series where I learn + teach various shader techniques
-- E.g. Voronoi/perlin noise, SDFs, ray marching, fractional brownian motion, etc.
+- E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
 - <ins>Tech</ins>: GLSL Shaders
 
 ### Boids
