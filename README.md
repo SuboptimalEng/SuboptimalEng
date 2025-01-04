@@ -35,7 +35,7 @@
 
 - I made this project to learn more about Unity game development
 - Tech Stack: Unity, C#, Shader Graph, Compute Shaders
-  <img src="_screenshots/boids.png" width="50%">
+  <img src="_screenshots/boids.png">
 
 <!-- <br />
 <br /> -->
