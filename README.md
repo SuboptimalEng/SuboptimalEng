@@ -10,19 +10,16 @@
 
 - I made this project to learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
-- Code + Demos + YouTube Video:
 
 ### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
 
 - I made this project to learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
-- Code + Demos:
 
 ### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials)
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
-- Code + Demos:
 
 ### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
