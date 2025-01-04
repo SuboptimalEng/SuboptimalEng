@@ -15,7 +15,7 @@
 ### MRI Viewer
 
 - I made this project to learn more about volume rendering
-- <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching
+- <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 
 ### Shader Tutorials
 
