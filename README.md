@@ -1,18 +1,18 @@
 ### 👋 Hi, I'm Suboptimal!
 
-#### About Me
+### About Me
 
 - I'm an Indian-American software engineer
 - I'm passionate about computer graphics
 - I share my learnings on [YouTube](https://www.youtube.com/@SuboptimalEng), [Twitter](https://twitter.com/SuboptimalEng), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/SuboptimalEng)
 
-#### Projects
+### Projects
 
-##### Slime Simulation (WebGPU, Compute Shaders)
+#### Slime Simulation (WebGPU, Compute Shaders)
 
-##### Volume Rendering (WebGL, Three.js)
+#### Volume Rendering (WebGL, Three.js)
 
-##### Shader Tutorials (GLSL)
+#### Shader Tutorials (GLSL)
 
 <!-- ### Slime Simulation:
   -
