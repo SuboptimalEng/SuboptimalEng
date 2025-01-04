@@ -16,16 +16,22 @@
 - I made this project to learn more about the Volume Rendering technique
 - <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 
-### Shader Tutorials
-
-- I started a tutorial series where I learn + teach various shader techniques
-- E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
-- <ins>Tech</ins>: GLSL Shaders
-
 ### Boids
 
 - I made this project to learn more about Unity game development
 - <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
+
+## 🫡 Tutorial Series
+
+### Shader Tutorials
+
+- I started a tutorial series where I learn + teach various shader techniques
+- E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
+
+### Three.js Tutorials
+
+- I started a tutorial series going over some core Three.js concepts
+- Reached an audience of 250k+ students
 
 <!-- <br />
 <br /> -->
