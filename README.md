@@ -23,6 +23,7 @@
 - I made this project to learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 - 30-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1c9ke0p/volume_rendering_in_threejs_and_glsl/), [Twitter](https://x.com/SuboptimalEng/status/1781808470985003035)
+- Learning Computer Graphics Devlog: [YouTube](https://www.youtube.com/watch?v=exkfFjhZsZ0)
   <br/>
   <br/>
   <img src="_screenshots/volume-renering.png">
