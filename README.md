@@ -3,6 +3,7 @@
 - I'm an Indian-American software engineer
 - I'm passionate about computer graphics
 - I share my learnings on [YouTube](https://www.youtube.com/@SuboptimalEng), [Twitter](https://twitter.com/SuboptimalEng), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/SuboptimalEng)
+- I also like watching anime, playing video games, and running long distances
 
 ## 🤓 Projects
 
