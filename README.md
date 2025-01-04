@@ -1,6 +1,5 @@
-## About Me
+## 👋 Hi, I'm Suboptimal!
 
-- Hi, I'm Suboptimal!
 - I'm an Indian-American software engineer
 - I'm passionate about computer graphics
 - I share my learnings on [YouTube](https://www.youtube.com/@SuboptimalEng), [Twitter](https://twitter.com/SuboptimalEng), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/SuboptimalEng)
