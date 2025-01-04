@@ -19,7 +19,8 @@
 ### Slime Simulation (Unity)
 
 - I made this project to learn more about compute shaders in Unity
-- It has more tooling than the WebGPU version, but it's not easily sharable
+- It has more editor tools than the WebGPU version like gradient colorization
+  - Largely because Unity has built-in support for this type of tooling
 - <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
 
 ### Boids
