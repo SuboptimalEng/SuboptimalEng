@@ -22,7 +22,7 @@
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/perlin noise, SDFs, ray marching, fractional brownian motion, etc.
-- <ins>Tech</ins>: GLSL, Shaders
+- <ins>Tech</ins>: GLSL Shaders
 
 <br />
 <br />
