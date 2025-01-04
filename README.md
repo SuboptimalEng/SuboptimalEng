@@ -11,18 +11,18 @@
 #### Slime Simulation
 
 - I made this project to learn more about WebGPU API
-- _Tech_: TypeScript, WebGPU, WGSL, Compute Shaders
+- <ins>Tech</ins>: TypeScript, WebGPU, WGSL, Compute Shaders
 
 #### MRI Viewer
 
 - I made this project to learn more about volume rendering
-- _Tech_: TypeScript, WebGL, GLSL, Three.js, Ray Marching
+- <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching
 
 #### Shader Tutorials
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/perlin noise, SDFs, ray marching, fractional brownian motion, etc.
-- _Tech_: GLSL, Shaders
+- <ins>Tech</ins>: GLSL, Shaders
 
 <br />
 <br />
