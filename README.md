@@ -40,6 +40,7 @@
 - I made this project to learn more about compute shaders in Unity
 - It has more editor tools than the WebGPU version (e.g. gradient colorization)
 - Tech Stack: Unity, C#, Shader Graph, Compute Shaders, Editor Scripting
+- 60-Second YouTube Shorts: [Part 1](https://www.youtube.com/shorts/UN3w41sRyDo), [Part 2](https://www.youtube.com/shorts/kMzA3ftW_MQ), [Part 3](https://www.youtube.com/shorts/98FIp_uJE1k)
 - 8-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs)
   <!-- <br/>
   <br/>
