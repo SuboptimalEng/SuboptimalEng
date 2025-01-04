@@ -25,7 +25,7 @@
 
 - I made this project to learn more about compute shaders in Unity
 - It has more editor tools than the WebGPU version (e.g. gradient colorization)
-- <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
+- <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders, Editor Scripting
 
 ### Boids (Unity)
 
