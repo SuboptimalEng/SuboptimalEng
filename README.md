@@ -10,6 +10,7 @@
 
 - I made this project to learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
+  <br/>
   <img src="_screenshots/slime-sim-webgpu.png">
 
 ### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
