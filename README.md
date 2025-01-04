@@ -1,6 +1,6 @@
-## 👋 Hello there, I'm Suboptimal!
+### 👋 Hi, I'm Suboptimal!
 
-### About Me
+#### About Me
 
 - I'm an Indian-American software engineer
 - I'm passionate about computer graphics
