@@ -6,13 +6,13 @@
 
 ## 🤓 Projects
 
-### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
+### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu){:target="\_blank"}
 
 - I made this project to learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
   <img src="_screenshots/slime-sim-webgpu.png">
 
-### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
+### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering){:target="\_blank"}
 
 - I made this project to learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
