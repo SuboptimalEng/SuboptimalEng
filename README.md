@@ -6,31 +6,34 @@
 
 ## 🤓 Projects
 
-### Slime Simulation
+### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
 
 - I made this project to learn more about compute shaders in WebGPU
-- <ins>Tech</ins>: TypeScript, WebGPU, WGSL, Compute Shaders
+- Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
+- Code + Demos + YouTube Video:
 
-### MRI Viewer
+### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
 
-- I made this project to learn more about the Volume Rendering technique
-- <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
+- I made this project to learn how to display MRIs and CT scans in WebGL
+- Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
+- Code + Demos:
 
-### Shader Tutorials
+### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials)
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
+- Code + Demos:
 
-### Slime Simulation (Unity)
+### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
 - I made this project to learn more about compute shaders in Unity
 - It has more editor tools than the WebGPU version (e.g. gradient colorization)
-- <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders, Editor Scripting
+- Tech Stack: Unity, C#, Shader Graph, Compute Shaders, Editor Scripting
 
-### Boids (Unity)
+### [Boids (Unity)](https://github.com/SuboptimalEng/boids)
 
 - I made this project to learn more about Unity game development
-- <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
+- Tech Stack: Unity, C#, Shader Graph, Compute Shaders
 
 <!-- <br />
 <br /> -->
