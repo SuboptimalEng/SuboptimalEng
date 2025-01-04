@@ -8,9 +8,7 @@
 
 ### Slime Simulation
 
-- I initally made this project to learn Unity and compute shaders
-- <ins>Tech</ins>: Unity, C#, Compute Shaders
-- I re-made this project in WebGPU to learn more about the API
+- I made this project to learn more about WebGPU and compute shaders
 - <ins>Tech</ins>: TypeScript, WebGPU, WGSL, Compute Shaders
 
 ### MRI Viewer
@@ -18,16 +16,16 @@
 - I made this project to learn more about volume rendering
 - <ins>Tech</ins>: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 
-### Boids
-
-- I made this project to learn more about Unity game development
-- <ins>Tech</ins>: Unity, C#, Compute Shaders, Shader Graph
-
 ### Shader Tutorials
 
 - I started a tutorial series where I learn + teach various shader techniques
 - E.g. Voronoi/perlin noise, SDFs, ray marching, fractional brownian motion, etc.
 - <ins>Tech</ins>: GLSL Shaders
+
+### Boids
+
+- I made this project to learn more about Unity game development
+- <ins>Tech</ins>: Unity, C#, Shader Graph, Compute Shaders
 
 <br />
 <br />
