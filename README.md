@@ -7,7 +7,7 @@
 
 ## 🤓 Projects
 
-### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
+### [Slime Sim (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
 
 - I made this project to learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
@@ -37,7 +37,7 @@
   <br/>
   <img src="_screenshots/ray-marching.png">
 
-### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
+### [Slime Sim (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
 - I made this project to learn more about compute shaders in Unity
 - It has more editor tools than the WebGPU version (e.g. gradient colorization)
