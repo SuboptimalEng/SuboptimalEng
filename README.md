@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Suboptimal!
 
 - I'm an Indian-American software engineer
-- I'm passionate about learning and teaching computer graphics
+- I'm passionate about learning computer graphics
 - I post long-form video tutorials and dev logs on [YouTube](https://www.youtube.com/@SuboptimalEng)
 - I post short WIP demos on [Twitter](https://twitter.com/SuboptimalEng), [BlueSky](https://bsky.app/profile/suboptimaleng.bsky.social), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/suboptimaleng/)
 - I also like to watch anime, play video games, and [run long distances](https://x.com/SuboptimalEng/status/1874485132184453161)
