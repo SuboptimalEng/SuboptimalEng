@@ -38,7 +38,7 @@
   <br/>
   <img src="_screenshots/ray-marching.png">
 
-<!--
+
 ### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
 - I made this project to learn more about compute shaders in Unity
@@ -49,7 +49,8 @@
   <br/>
   <br/>
   <img src="_screenshots/slime-sim-unity.png">
-
+  
+<!--
 ### [Boids (Unity)](https://github.com/SuboptimalEng/boids)
 
 - I made this project to learn more about Unity game development
