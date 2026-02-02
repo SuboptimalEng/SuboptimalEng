@@ -4,7 +4,7 @@
 - I'm passionate about computer graphics
 - I post long-form video tutorials and devlogs on [YouTube](https://www.youtube.com/@SuboptimalEng)
 - I post short work-in-progress demos on [Twitter](https://twitter.com/SuboptimalEng), [BlueSky](https://bsky.app/profile/suboptimaleng.bsky.social), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/suboptimaleng/)
-- I also like to watch anime, play video games, and [run long distances](https://x.com/SuboptimalEng/status/1941703345070068094)
+- I also like to watch anime, play video games, and [run long distances](https://www.youtube.com/post/UgkxSSFi9ZpHfLlkP-FS0q1PrzX-1JnrKG5m)
 
 ## 🤓 Projects
 
