@@ -13,7 +13,7 @@
 
 - I made this project to learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, ImGui, ImNodes
-- 45-Second Demos: [YouTube Shorts - Part 1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Shorts - Part 2](https://www.youtube.com/shorts/ZiA98V3FBH8)
+- 45-Second Demo: [YouTube Shorts v1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Shorts v2](https://www.youtube.com/shorts/ZiA98V3FBH8)
   <br/>
   <br/>
   <!-- <img src="_screenshots/slime-sim-webgpu.png"> -->
