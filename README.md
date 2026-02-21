@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Suboptimal!
 
-- I'm an Indian-American software engineer passionate about C++ and computer graphics
+- I'm an Indian-American SWE passionate about C++ and computer graphics
 - I post long-form video tutorials on [YouTube](https://www.youtube.com/@SuboptimalEng), and short, work-in-progress demos on [Twitter](https://twitter.com/SuboptimalEng) and [Threads](https://www.threads.net/@suboptimaleng)
 - I also like to watch anime, play video games, and [run long distances](https://www.youtube.com/post/UgkxSSFi9ZpHfLlkP-FS0q1PrzX-1JnrKG5m)
 <!-- - I post long-form video tutorials and devlogs on [YouTube](https://www.youtube.com/@SuboptimalEng)
