@@ -13,9 +13,10 @@
 
 - I made this project to learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, ImGui, ImNodes
+- 45-Second Demos: [YouTube Shorts - Part 1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Shorts - Part 2](https://www.youtube.com/shorts/ZiA98V3FBH8)
   <br/>
   <br/>
-  <img src="_screenshots/slime-sim-webgpu.png">
+  <!-- <img src="_screenshots/slime-sim-webgpu.png"> -->
 
 ### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
 
@@ -47,6 +48,11 @@
   <br/>
   <img src="_screenshots/ray-marching.png">
 
+<!-- --->
+<!-- Unity Projects -->
+<!-- --->
+
+<!--
 ### [Slime Simulation (Unity)](https://github.com/SuboptimalEng/slime-sim-unity)
 
 - I made this project to learn more about compute shaders in Unity
@@ -58,7 +64,6 @@
   <br/>
   <img src="_screenshots/slime-sim-unity.png">
 
-<!--
 ### [Boids (Unity)](https://github.com/SuboptimalEng/boids)
 
 - I made this project to learn more about Unity game development
@@ -69,9 +74,11 @@
   <img src="_screenshots/boids.png">
 -->
 
-<!--
-Note: Leaving this here incase I want to use it again.
+<!-- --->
+<!-- GitHub Graph -->
+<!-- --->
 
+<!--
 <br />
 <br />
 
