@@ -1,12 +1,21 @@
 ## 👋 Hi, I'm Suboptimal!
 
-- I'm an Indian-American SWE passionate about C++ and computer graphics
+- I'm an Indian-American software engineer
+- I'm passionate about C++ and computer graphics
 - I post long-form video tutorials on [YouTube](https://www.youtube.com/@SuboptimalEng), and short, work-in-progress demos on [Twitter](https://twitter.com/SuboptimalEng) and [Threads](https://www.threads.net/@suboptimaleng)
 - I also like to watch anime, play video games, and [run long distances](https://www.youtube.com/post/UgkxSSFi9ZpHfLlkP-FS0q1PrzX-1JnrKG5m)
 <!-- - I post long-form video tutorials and devlogs on [YouTube](https://www.youtube.com/@SuboptimalEng)
 - I post short work-in-progress demos on [Twitter](https://twitter.com/SuboptimalEng), [BlueSky](https://bsky.app/profile/suboptimaleng.bsky.social), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/suboptimaleng/) -->
 
 ## 🤓 Projects
+
+### C++ WebGPU Shader Animation Engine
+
+- I made this project to learn more about C++ and WebGPU
+- Tech Stack: C++, CMake, WebGPU, ImGui, ImNodes
+  <br/>
+  <br/>
+  <img src="_screenshots/slime-sim-webgpu.png">
 
 ### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
 
