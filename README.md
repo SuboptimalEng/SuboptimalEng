@@ -9,7 +9,7 @@
 
 ## 🤓 Projects
 
-### C++ WebGPU Shader Animation Engine
+### C++ WebGPU Shader Engine
 
 - Goal: Learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, ImGui, ImNodes
