@@ -61,15 +61,18 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 ### Interesting Videos
 
 - [What is WebGPU?](https://www.youtube.com/watch?v=oIur9NATg-I) (95k+ views)
+  - 95k+ views
   - One of the most popular WebGPU videos on YouTube!
-- [Introduction to Vim in VS Code](https://www.youtube.com/watch?v=h-epcklOC_g) (243k+ views)
+- [Introduction to Vim in VS Code](https://www.youtube.com/watch?v=h-epcklOC_g)
+  - 243k+ views
   - My most viewed video on YouTube!
-- [How to Run a 24/7 Live Steam on YouTube](https://www.youtube.com/watch?v=AT5x3d-yDRY) (44k+ views)
+- [How to Run a 24/7 Live Steam on YouTube](https://www.youtube.com/watch?v=AT5x3d-yDRY)
+  - 44k+ views
   - I got nerd sniped into learning how Lofi Girl runs live
 - [LeetCode in Python Series](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7wceZaKgzV-SX1YyeuIPtNu&pp=sAgC)
-  - Made 20 Python LeetCode tutorials, which reached over 150k+ students
+  - Made 20 LeetCode tutorials, which reached over 150k+ students
   - Fun fact, I actually started (and stopped) this series before NeetCode!
-    - My 20th LeetCode Python tutorial was released on Dec. 30th, 2019
+    - My 20th LeetCode tutorial was released on Dec. 30th, 2019
     - NeetCode's first LeetCode video was released on May 30th, 2020
   - No, I don't regret this decision, and I truly appreciate NeetCode's work!
   - I was more interested in building projects than making interview prep videos
