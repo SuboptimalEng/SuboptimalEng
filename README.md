@@ -27,7 +27,7 @@
 
 - Goal: Learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
-- 45-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1hp4kn2/webgpu_typescript_slime_mold_simulation/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [Twitter](https://x.com/SuboptimalEng/status/1873425520106582229), [Threads](https://www.threads.net/@suboptimaleng/post/DEK9UtZIX5n?xmt=AQGzdJJWLtFvVJ94Aw73-35N4bCzFWb2na419Vv8lqsOtg), [YouTube Shorts](https://www.youtube.com/shorts/ZGJ6E04lC7Q)
+- 45-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1hp4kn2/webgpu_typescript_slime_mold_simulation/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [Twitter](https://x.com/SuboptimalEng/status/1873425520106582229), [Threads](https://www.threads.net/@suboptimaleng/post/DEK9UtZIX5n?xmt=AQGzdJJWLtFvVJ94Aw73-35N4bCzFWb2na419Vv8lqsOtg), [YouTube Short](https://www.youtube.com/shorts/ZGJ6E04lC7Q)
 - 5-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=nBqZOz7AF34)
   <!-- <br/>
   <br/>
