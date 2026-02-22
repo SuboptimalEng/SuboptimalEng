@@ -12,7 +12,7 @@
 ### [C++ Tutorials](https://github.com/SuboptimalEng/cpp-tutorials) (ongoing)
 
 - Goal: Learn and teach C++
-- Made 12+ video tutorials going over topics like:
+- Made 12+ video tutorials going over various topics like:
   - [Introduction to WebGPU with C++](https://www.youtube.com/watch?v=Kjpi9x2ayTs)
   - [Why is Return Zero is Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
   - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
