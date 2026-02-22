@@ -80,7 +80,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 ### Other Projects
 
 - Slime Mold Simulation in Unity (2023)
-  - 8 minute devlog on [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs), code on [GitHub](https://github.com/SuboptimalEng/slime-sim-unity),
+  - 8 minute devlog on [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs), code on [GitHub](https://github.com/SuboptimalEng/slime-sim-unity)
 - Boids Flockng Simulation in Unity (2023)
   - 9 minute devlog on [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo), code on [GitHub](https://github.com/SuboptimalEng/boids)
 - 16 Three.js Tutorials (2022)
