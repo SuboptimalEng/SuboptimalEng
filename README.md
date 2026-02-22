@@ -9,6 +9,11 @@
 
 ## 🤓 Projects
 
+### [C++ Tutorials](https://github.com/SuboptimalEng/cpp-tutorials)
+
+- Goal: Learn and teach C++
+- Playlist with 12+ Videos: [YouTube](https://www.youtube.com/watch?v=wXKhuVEuHMA&list=PLTJ_bWjv6i7x5D06RIWdhWsHJTpoZ9F3p&pp=sAgC)
+
 ### C++ WebGPU Shader Engine (private repo)
 
 - Goal: Learn more about C++ and WebGPU
