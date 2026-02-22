@@ -12,11 +12,10 @@
 ### [C++ Tutorials](https://github.com/SuboptimalEng/cpp-tutorials) (ongoing)
 
 - Goal: Learn and teach C++
-- Playlist with 12+ Videos: [YouTube](https://www.youtube.com/watch?v=wXKhuVEuHMA&list=PLTJ_bWjv6i7x5D06RIWdhWsHJTpoZ9F3p&pp=sAgC)
-- Covered topics:
-  - Introduction to WebGPU with C++
-  - Why is Return Zero is Optional in C++
-  - How to Setup C++ LLDB Debugger in VS Code
+- Made 12+ video tutorials going over topics like:
+  - [Introduction to WebGPU with C++](https://www.youtube.com/watch?v=Kjpi9x2ayTs)
+  - [Why is Return Zero is Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
+  - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
 
 ### C++ WebGPU Shader Engine (private repo)
 
