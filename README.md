@@ -86,7 +86,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 - 16 Three.js Tutorials (2022)
   - Playlist on [YouTube](https://www.youtube.com/watch?v=MSZ7nqqgVKc&list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI&pp=sAgC), code on [GitHub](https://github.com/SuboptimalEng/three-js-tutorials)
 - Orbital - Local Video File Browser (2021)
-  - Demo video on [YouTube](https://www.youtube.com/watch?v=gMkMtGQFjLs), code on [GitHub](https://github.com/SuboptimalEng/orbital)
+  - 3 minute devlog on [YouTube](https://www.youtube.com/watch?v=gMkMtGQFjLs), code on [GitHub](https://github.com/SuboptimalEng/orbital)
 
 <!-- --->
 <!-- Unity Projects -->
