@@ -17,13 +17,13 @@
   - [Why is Return Zero is Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
   - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
 
-### C++ WebGPU Shader Engine (private repo)
+### C++ WebGPU Shader Engine (ongoing in private repo)
 
 - Goal: Learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, WGSL, ImGui, ImNodes
 - 1-Min Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
 
-### [Slime Mold Simulation](https://github.com/SuboptimalEng/slime-sim-webgpu)
+### [Slime Mold Simulation](https://github.com/SuboptimalEng/slime-sim-webgpu) (2025)
 
 - Goal: Learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
@@ -34,7 +34,7 @@
   <br/>
   <img src="_screenshots/slime-sim-webgpu.png"> -->
 
-### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering)
+### [Volume Rendering](https://github.com/SuboptimalEng/volume-rendering) (2024)
 
 - Goal: Learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
@@ -43,7 +43,7 @@
   <br/>
   <img src="_screenshots/volume-renering.png"> -->
 
-### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials)
+### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials) (2022 - 2024)
 
 - Goal: Learn and teach various shader techniques
 - E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
