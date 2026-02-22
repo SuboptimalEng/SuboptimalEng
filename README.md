@@ -17,7 +17,7 @@
   - [Why is Return Zero is Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
   - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
 
-### C++ WebGPU Shader Engine (ongoing in private repo)
+### C++ WebGPU Shader Engine (ongoing, private repo)
 
 - Goal: Learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, WGSL, ImGui, ImNodes
