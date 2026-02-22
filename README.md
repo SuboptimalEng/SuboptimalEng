@@ -82,7 +82,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 - [Slime Mold Simulation in Unity](https://github.com/SuboptimalEng/slime-sim-unity) (2023)
 - [Boids Flockng Simulation in Unity](https://github.com/SuboptimalEng/boids) (2023)
 - [Three.js Tutorial Series](https://github.com/SuboptimalEng/three-js-tutorials) (2022)
-- [Orbital - Local Video File Browser](https://github.com/SuboptimalEng/orbital) (2021)
+- [Orbital (Local Video File Browser)](https://github.com/SuboptimalEng/orbital) (2021)
 
 <!-- --->
 <!-- Unity Projects -->
