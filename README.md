@@ -13,7 +13,7 @@
 
 - Goal: Learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, ImGui, ImNodes
-- 1-Min Demo: [YouTube Shorts Part 1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Shorts Part 2](https://www.youtube.com/shorts/ZiA98V3FBH8)
+- 1-Min Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
   <!-- <br/> -->
   <!-- <br/> -->
   <!-- <img src="_screenshots/slime-sim-webgpu.png"> -->
