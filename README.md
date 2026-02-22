@@ -13,7 +13,7 @@
 
 - Goal: Learn and teach C++
 - Playlist with 12+ Videos: [YouTube](https://www.youtube.com/watch?v=wXKhuVEuHMA&list=PLTJ_bWjv6i7x5D06RIWdhWsHJTpoZ9F3p&pp=sAgC)
-- Covered topics such as:
+- Covered topics:
   - Introduction to WebGPU with C++
   - Why is Return Zero is Optional in C++
   - How to Setup C++ LLDB Debugger in VS Code
