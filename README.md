@@ -4,15 +4,14 @@
 - I'm passionate about C++ and computer graphics
 - I post long-form video tutorials on [YouTube](https://www.youtube.com/@SuboptimalEng), and work-in-progress demos on [Twitter](https://twitter.com/SuboptimalEng) and [Threads](https://www.threads.net/@suboptimaleng)
 - I also like to watch anime, play video games, and [run long distances](https://www.youtube.com/post/UgkxSSFi9ZpHfLlkP-FS0q1PrzX-1JnrKG5m)
-<!-- - I post long-form video tutorials and devlogs on [YouTube](https://www.youtube.com/@SuboptimalEng)
-- I post short work-in-progress demos on [Twitter](https://twitter.com/SuboptimalEng), [BlueSky](https://bsky.app/profile/suboptimaleng.bsky.social), [Threads](https://www.threads.net/@suboptimaleng), and [Instagram](https://www.instagram.com/suboptimaleng/) -->
+<!-- [BlueSky](https://bsky.app/profile/suboptimaleng.bsky.social) + [Instagram](https://www.instagram.com/suboptimaleng/) -->
 
 ## 🤓 Projects
 
 ### [C++ Tutorials](https://github.com/SuboptimalEng/cpp-tutorials) (ongoing)
 
 - Goal: Learn and teach C++
-- Made 12+ video tutorials going over various topics like:
+- Made 12+ video tutorials covering topics like:
   - [Introduction to WebGPU with C++](https://www.youtube.com/watch?v=Kjpi9x2ayTs)
   - [Why is Return Zero is Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
   - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
@@ -45,8 +44,10 @@
 ### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials) (2022 - 2024)
 
 - Goal: Learn and teach various shader techniques
-- E.g. Voronoi/Perlin Noise, SDFs, Ray Marching, Fractional Brownian Motion, etc.
-- Playlist with 10+ Videos: [YouTube](https://www.youtube.com/watch?v=7UvpTTEE1Hs&list=PLTJ_bWjv6i7xnDaPMrbx69zVu82sVails&pp=gAQB)
+- Made 10+ video tutorials covering topics like:
+  - [What is Perlin Noise?](https://www.youtube.com/watch?v=7fd331zsie0&pp=0gcJCaIKAYcqIYzv)
+  - [What is Gaussian Blur?](https://www.youtube.com/watch?v=5xUT5QdkPAU)
+  - [Intro to Signed Distance Fields](https://www.youtube.com/watch?v=pEdlZ9W2Xs0)
   <!-- <br/>
   <br/>
   <img src="_screenshots/ray-marching.png"> -->
