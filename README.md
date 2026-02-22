@@ -22,7 +22,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 
 ### C++ WebGPU Shader Engine (ongoing, private repo)
 
-- Goal: Learn more about C++ and WebGPU
+- Goal: Create a shader engine to help me make animations for YouTube videos
 - Tech Stack: C++, CMake, WebGPU, WGSL, ImGui, ImNodes
 - 1-Min Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
 
