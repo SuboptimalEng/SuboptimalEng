@@ -1,3 +1,7 @@
+## 😅 TL;DR
+
+I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ years! I don't know how to capture all that information succinctly, so I made this readme.
+
 ## 👋 Hi, I'm Suboptimal!
 
 - I'm an Indian-American software engineer
@@ -51,6 +55,34 @@
   <!-- <br/>
   <br/>
   <img src="_screenshots/ray-marching.png"> -->
+
+## 🫡 Misc
+
+### Interesting Videos
+
+- [What is WebGPU?](https://www.youtube.com/watch?v=oIur9NATg-I)
+  - 95k+ views on YouTube
+  - It is one of the most popular WebGPU videos on YouTube!
+- [Introduction to Vim in VS Code](https://www.youtube.com/watch?v=h-epcklOC_g)
+  - 243k+ views on YouTube
+  - My most viewed video on YouTube!
+- [How to Run a 24/7 Live Steam on YouTube](https://www.youtube.com/watch?v=AT5x3d-yDRY)
+  - 44k+ views on YouTube
+  - I got nerd sniped into learning how Lofi Girl runs live
+- [LeetCode in Python Series](https://www.youtube.com/watch?v=pypLtNT8aNY&list=PLTJ_bWjv6i7wceZaKgzV-SX1YyeuIPtNu&pp=sAgC)
+  - Made 20 LeetCode in Python tutorials which reached over 150k+ students
+  - Fun fact, I actually started (and stopped) this series before NeetCode!
+    - My 20th LeetCode Python tutorial was released on Dec. 30th, 2019
+    - NeetCode's first LeetCode video was released on May 30th, 2020
+  - No, I don't regret this decision, and I truly appreciate NeetCode's work!
+  - I was more interested in building projects than making interview prep videos
+
+### Other Projects
+
+- [Slime Mold Simulation in Unity](https://github.com/SuboptimalEng/slime-sim-unit) (2024)
+- [Boids Flockng Simulation in Unity](https://github.com/SuboptimalEng/boids) (2024)
+- [Three.js Tutorial Series](https://github.com/SuboptimalEng/three-js-tutorials) (2023)
+- [Orbital - Local Video File Browser](https://github.com/SuboptimalEng/orbital) (2021)
 
 <!-- --->
 <!-- Unity Projects -->
