@@ -9,14 +9,11 @@
 
 ## 🤓 Projects
 
-### C++ WebGPU Shader Engine
+### C++ WebGPU Shader Engine (private repo)
 
 - Goal: Learn more about C++ and WebGPU
 - Tech Stack: C++, CMake, WebGPU, ImGui, ImNodes
 - 1-Min Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
-  <!-- <br/> -->
-  <!-- <br/> -->
-  <!-- <img src="_screenshots/slime-sim-webgpu.png"> -->
 
 ### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
 
@@ -34,7 +31,6 @@
 - Goal: Learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
 - 30-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1c9ke0p/volume_rendering_in_threejs_and_glsl/), [Twitter](https://x.com/SuboptimalEng/status/1781808470985003035)
-- Learning Computer Graphics Devlog: [YouTube](https://www.youtube.com/watch?v=exkfFjhZsZ0)
   <!-- <br/>
   <br/>
   <img src="_screenshots/volume-renering.png"> -->
