@@ -23,7 +23,7 @@
 - Tech Stack: C++, CMake, WebGPU, WGSL, ImGui, ImNodes
 - 1-Min Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
 
-### [Slime Simulation (WebGPU)](https://github.com/SuboptimalEng/slime-sim-webgpu)
+### [Slime Mold Simulation](https://github.com/SuboptimalEng/slime-sim-webgpu)
 
 - Goal: Learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
