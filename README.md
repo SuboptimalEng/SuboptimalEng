@@ -79,7 +79,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 
 ### Other Projects
 
-- [Slime Mold Simulation in Unity](https://github.com/SuboptimalEng/slime-sim-unity) (2023)]
+- [Slime Mold Simulation in Unity](https://github.com/SuboptimalEng/slime-sim-unity) (2023)
   - 8 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs)
 - [Boids Flocking Simulation in Unity](https://github.com/SuboptimalEng/boids) (2023)
   - 9 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo)
