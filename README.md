@@ -79,18 +79,14 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 
 ### Other Projects
 
-- Slime Mold Simulation in Unity (2023)
+- [Slime Mold Simulation in Unity](https://github.com/SuboptimalEng/slime-sim-unity) (2023)]
   - 8 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs)
-  - Code: [GitHub](https://github.com/SuboptimalEng/slime-sim-unity)
-- Boids Flockng Simulation in Unity (2023)
+- [Boids Flocking Simulation in Unity](https://github.com/SuboptimalEng/boids) (2023)
   - 9 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo)
-  - Code: [GitHub](https://github.com/SuboptimalEng/boids)
-- 16 Three.js Tutorials (2022)
+- [16 Three.js Tutorials](https://github.com/SuboptimalEng/three-js-tutorials) (2022)
   - Playlist: [YouTube](https://www.youtube.com/watch?v=MSZ7nqqgVKc&list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI&pp=sAgC)
-  - Code: [GitHub](https://github.com/SuboptimalEng/three-js-tutorials)
-- Orbital - Local Video File Browser (2021)
+- [Orbital - Local Video File Browser](https://github.com/SuboptimalEng/orbital) (2021)
   - 3 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=gMkMtGQFjLs)
-  - Code: [GitHub](https://github.com/SuboptimalEng/orbital)
 
 <!-- --->
 <!-- Unity Projects -->
