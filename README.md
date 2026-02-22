@@ -15,7 +15,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 ### [C++ Tutorials](https://github.com/SuboptimalEng/cpp-tutorials) (ongoing)
 
 - Goal: Learn and teach C++
-- Made 12+ video tutorials covering topics like:
+- Made 12+ video tutorials going over topics like:
   - [Introduction to WebGPU with C++](https://www.youtube.com/watch?v=Kjpi9x2ayTs)
   - [Why is Return Zero Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
   - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
@@ -48,7 +48,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 ### [Shader Tutorials](https://github.com/SuboptimalEng/shader-tutorials) (2022 - 2024)
 
 - Goal: Learn and teach various shader techniques
-- Made 10+ video tutorials covering topics like:
+- Made 10+ video tutorials going over topics like:
   - [What is Perlin Noise?](https://www.youtube.com/watch?v=7fd331zsie0&pp=0gcJCaIKAYcqIYzv)
   - [What is Gaussian Blur?](https://www.youtube.com/watch?v=5xUT5QdkPAU)
   - [Intro to Signed Distance Fields](https://www.youtube.com/watch?v=pEdlZ9W2Xs0)
