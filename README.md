@@ -24,14 +24,14 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 
 - Goal: Create a shader engine to help me make animations for YouTube videos
 - Tech Stack: C++, CMake, WebGPU, WGSL, ImGui, ImNodes
-- 1-Min Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
+- 1 Minute Demo: [YouTube Short #1](https://www.youtube.com/shorts/DSj5whEcIkY), [YouTube Short #2](https://www.youtube.com/shorts/ZiA98V3FBH8)
 
 ### [Slime Mold Simulation](https://github.com/SuboptimalEng/slime-sim-webgpu) (2025)
 
 - Goal: Learn more about compute shaders in WebGPU
 - Tech Stack: TypeScript, WebGPU, WGSL, Compute Shaders
-- 45-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1hp4kn2/webgpu_typescript_slime_mold_simulation/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [Twitter](https://x.com/SuboptimalEng/status/1873425520106582229), [Threads](https://www.threads.net/@suboptimaleng/post/DEK9UtZIX5n?xmt=AQGzdJJWLtFvVJ94Aw73-35N4bCzFWb2na419Vv8lqsOtg), [YouTube Short](https://www.youtube.com/shorts/ZGJ6E04lC7Q)
-- 5-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=nBqZOz7AF34)
+- 45 Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1hp4kn2/webgpu_typescript_slime_mold_simulation/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [Twitter](https://x.com/SuboptimalEng/status/1873425520106582229), [Threads](https://www.threads.net/@suboptimaleng/post/DEK9UtZIX5n?xmt=AQGzdJJWLtFvVJ94Aw73-35N4bCzFWb2na419Vv8lqsOtg), [YouTube Short](https://www.youtube.com/shorts/ZGJ6E04lC7Q)
+- 5 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=nBqZOz7AF34)
   <!-- <br/>
   <br/>
   <img src="_screenshots/slime-sim-webgpu.png"> -->
@@ -40,7 +40,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 
 - Goal: Learn how to display MRIs and CT scans in WebGL
 - Tech Stack: TypeScript, WebGL, GLSL, Three.js, Ray Marching, Volume Rendering
-- 30-Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1c9ke0p/volume_rendering_in_threejs_and_glsl/), [Twitter](https://x.com/SuboptimalEng/status/1781808470985003035)
+- 30 Second Demo: [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/comments/1c9ke0p/volume_rendering_in_threejs_and_glsl/), [Twitter](https://x.com/SuboptimalEng/status/1781808470985003035)
   <!-- <br/>
   <br/>
   <img src="_screenshots/volume-renering.png"> -->
@@ -80,17 +80,13 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 ### Other Projects
 
 - Slime Mold Simulation in Unity (2023)
-  - Code: [GitHub](https://github.com/SuboptimalEng/slime-sim-unity)
-  - 8-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs)
+  - 8 minute devlog on [YouTube](https://www.youtube.com/watch?v=BKcxJlvqNWs), code on [GitHub](https://github.com/SuboptimalEng/slime-sim-unity),
 - Boids Flockng Simulation in Unity (2023)
-  - Code: [GitHub](https://github.com/SuboptimalEng/boids)
-  - 9-Minute Devlog: [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo)
+  - 9 minute devlog on [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo), code on [GitHub](https://github.com/SuboptimalEng/boids)
 - 16 Three.js Tutorials (2022)
-  - Code: [GitHub](https://github.com/SuboptimalEng/three-js-tutorials)
-  - Playlist: [YouTube](https://www.youtube.com/watch?v=MSZ7nqqgVKc&list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI&pp=sAgC)
+  - Playlist on [YouTube](https://www.youtube.com/watch?v=MSZ7nqqgVKc&list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI&pp=sAgC), code on [GitHub](https://github.com/SuboptimalEng/three-js-tutorials)
 - Orbital - Local Video File Browser (2021)
-  - Code: [GitHub](https://github.com/SuboptimalEng/orbital)
-  - Demo Video: [YouTube](https://www.youtube.com/watch?v=gMkMtGQFjLs)
+  - Demo video on [YouTube](https://www.youtube.com/watch?v=gMkMtGQFjLs), code on [GitHub](https://github.com/SuboptimalEng/orbital)
 
 <!-- --->
 <!-- Unity Projects -->
