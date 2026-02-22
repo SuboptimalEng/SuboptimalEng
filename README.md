@@ -13,6 +13,13 @@
 
 - Goal: Learn and teach C++
 - Playlist with 12+ Videos: [YouTube](https://www.youtube.com/watch?v=wXKhuVEuHMA&list=PLTJ_bWjv6i7x5D06RIWdhWsHJTpoZ9F3p&pp=sAgC)
+- Sample videos covered:
+  - Why is Return Zero is Optional in C++
+  - How to Count Bits with Bit Manipulation
+  - How to Setup C++ LLDB Debugger in VS Code
+  - What do the Linker and Compiler do in C++
+  - How to Debug C++ on MacOS with LLDB
+  - Introduction to WebGPU with C++
 
 ### C++ WebGPU Shader Engine (private repo)
 
