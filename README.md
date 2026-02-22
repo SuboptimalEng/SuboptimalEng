@@ -17,7 +17,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 - Goal: Learn and teach C++
 - Made 12+ video tutorials covering topics like:
   - [Introduction to WebGPU with C++](https://www.youtube.com/watch?v=Kjpi9x2ayTs)
-  - [Why is Return Zero is Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
+  - [Why is Return Zero Optional in C++](https://www.youtube.com/watch?v=wXKhuVEuHMA)
   - [How to Setup C++ LLDB Debugger in VS Code](https://www.youtube.com/watch?v=0LkyGGVN2B4&pp=0gcJCaIKAYcqIYzv)
 
 ### C++ WebGPU Shader Engine (ongoing, private repo)
