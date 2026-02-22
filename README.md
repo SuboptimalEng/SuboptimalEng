@@ -60,7 +60,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
 
 ### Interesting Videos
 
-- [What is WebGPU?](https://www.youtube.com/watch?v=oIur9NATg-I) (95k+ views)
+- [What is WebGPU?](https://www.youtube.com/watch?v=oIur9NATg-I)
   - 95k+ views
   - One of the most popular WebGPU videos on YouTube!
 - [Introduction to Vim in VS Code](https://www.youtube.com/watch?v=h-epcklOC_g)
