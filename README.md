@@ -87,7 +87,7 @@ I've worked on dozens of projects and made 120+ YouTube videos over the last 7+ 
   - 9 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=HzR-9tfOJQo)
 - 16 Three.js Tutorials (2022)
   - Code: [GitHub](https://github.com/SuboptimalEng/three-js-tutorials)
-  - Playlist: [YouTube](https://www.youtube.com/watch?v=MSZ7nqqgVKc&list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI&pp=sAgC)
+  - Video Playlist: [YouTube](https://www.youtube.com/watch?v=MSZ7nqqgVKc&list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI&pp=sAgC)
 - Orbital - Local Video File Browser (2021)
   - Code: [GitHub](https://github.com/SuboptimalEng/orbital)
   - 3 Minute Devlog: [YouTube](https://www.youtube.com/watch?v=gMkMtGQFjLs)
